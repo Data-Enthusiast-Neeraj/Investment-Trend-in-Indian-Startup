@@ -100,4 +100,5 @@ Business Impact & Insights
 6. Screenshots / Demos
    
 📷 Snapshot of Report 3 – Full visual overview of investment trends, sector-wise performance, profitability, and technology insights.
-![Screenshot 2025-07-05 104356](https://github.com/user-attachments/assets/7aeaacda-73ff-4e6a-8aed-51857f4bc447)
+![Snapshot of Report](https://github.com/user-attachments/assets/518a608c-6b6b-4359-b375-e4d56a70a79c)
+
